@@ -1,0 +1,22 @@
+textarea{
+    resize: none;
+}
+.body-wrapper{
+    margin: 100px;
+}
+div{
+    margin: 5px;
+}
+button{
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+    margin-left: 5px !important;
+    padding: 2px !important;
+}
+textarea{
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+}
+span{
+    margin: 15px;
+}
